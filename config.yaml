@@ -1,2 +1,2 @@
 path: "Copy_of_machine_learning.joblib"
-features: [selected_features = ['bill_depth_mm',  'body_mass_g']
+features: selected_features = ['bill_depth_mm',  'body_mass_g']
